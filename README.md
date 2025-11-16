@@ -12,12 +12,6 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on **HowToCodeWork** (أو أي مشروع آخر تريده!)
-- 🌱 I’m currently learning **Full-Stack Development**
-- 👨‍💻 All of my projects are available at [my GitHub](https://github.com/ayoub-elkhadir-d?tab=repositories)
-- 💬 Ask me about **JavaScript, Python, Android, or Web Dev**
-- 📫 How to reach me: ayoub.elkhadir@email.com (أو رابطك الحقيقي)
-- ⚡ Fun fact: أنا مغربي وأحب البرمجة مع الشاي!
 
 <div align="center">
   <a href="https://twitter.com/lkjhgfdfghjk" target="_blank">
@@ -76,24 +70,6 @@
   <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<h3 align="left">Stars</h3>
 
-<img align="left" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayoub-elkhadir-d&layout=compact&theme=dark" alt="ayoub-elkhadir-d" />
 
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=ayoub-elkhadir-d&show_icons=true&locale=en&theme=dark" alt="ayoub-elkhadir-d" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=ayoub-elkhadir-d&theme=gotham" alt="ayoub-elkhadir-d" /></p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h3 align="center">Statistics</h3>
-
-<div align="center">
-  <a href="https://github.com/ayoub-elkhadir-d">
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayoub-elkhadir-d&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayoub-elkhadir-d&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayoub-elkhadir-d&theme=2077" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayoub-elkhadir-d&theme=dark" height="180em" />
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayoub-elkhadir-d&theme=2077" height="180em" />
-  </a>
-</div>
