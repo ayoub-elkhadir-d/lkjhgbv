@@ -1,12 +1,60 @@
-<h3 style="color: #2ecc71; font-family: 'Courier New', monospace; text-align: center;">
-  🚀 مرحباً بك في مشروعي!
-</h3>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>My Project</title>
+<style>
+body {
+  font-family: Arial;
+  background: #111;
+  color: white;
+  text-align: center;
+  padding: 40px;
+}
 
-<div style="background-color: #1e1e1e; padding: 20px; border-radius: 10px; color: #f1f1f1; font-family: 'Segoe UI', sans-serif;">
-  <p><strong>الوصف:</strong> هذا المشروع يحتوي على كود Java مع طابع قوي وأنيق 🐦☕</p>
-  <p><em>استخدم <code style="background: #333; color: #ff6b6b; padding: 2px 6px; border-radius: 4px;">Java</code> لتطوير تطبيقات قوية.</em></p>
+.button {
+  display: inline-block;
+  padding: 14px 26px;
+  margin: 10px;
+  border-radius: 12px;
+  background: #0077ff;
+  color: white;
+  font-size: 20px;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+.button:hover {
+  background: #0055cc;
+  transform: scale(1.07);
+}
+
+.box {
+  width: 260px;
+  margin: 40px auto;
+  padding: 20px;
+  border-radius: 16px;
+  background: linear-gradient(135deg, #9C27B0, #673AB7);
+  animation: float 3s infinite ease-in-out;
+}
+
+@keyframes float {
+  50% { transform: translateY(-12px); }
+}
+</style>
+</head>
+<body>
+
+<h1>🚀 My Animated UI</h1>
+
+<a class="button" href="#">Button 1</a>
+<a class="button" href="#">Button 2</a>
+<a class="button" href="#">Button 3</a>
+
+<div class="box">
+  <h2>Animated Card</h2>
+  <p>Floating, glowing component.</p>
 </div>
 
-<p style="text-align: center; margin-top: 20px;">
-  <img src="https://your-image-link-here.jpg" alt="Java Bird" width="200" style="border-radius: 15px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
-</p>
+</body>
+</html>
